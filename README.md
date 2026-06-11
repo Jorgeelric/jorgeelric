@@ -34,8 +34,8 @@ Minha experiência em tecnologia, análise de dados, investigação digital e re
 
 ## Projetos em Destaque
 
-<a href="https://github.com/Jorgeelric/curso-front-end">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Jorgeelric&repo=curso-front-end&theme=github_dark" />
+<a href="https://github.com/Jorgeelric/daniel-fadione">
+  <img align="center" src="https://github.com/Jorgeelric/daniel-fadione.git" />
 </a>
 
 <br><br>
