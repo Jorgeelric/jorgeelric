@@ -38,31 +38,46 @@ Minha experiência prévia em tecnologia contribui para uma abordagem analítica
 
 ## Projetos em Destaque
 
-<p align="center">
+<table>
+<tr>
+<td width="50%">
+
 <a href="https://github.com/Jorgeelric/nexanime">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jorgeelric&repo=nexanime&theme=github_dark&hide_border=true" />
 </a>
-</p>
 
-<p align="center">
+</td>
+
+<td width="50%">
+
 <a href="https://github.com/Jorgeelric/TechJobs-_Brasil">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jorgeelric&repo=TechJobs-_Brasil&theme=github_dark&hide_border=true" />
 </a>
-</p>
 
-<p align="center">
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
 <a href="https://github.com/Jorgeelric/jogo_da_memoria">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jorgeelric&repo=jogo_da_memoria&theme=github_dark&hide_border=true" />
 </a>
-</p>
 
-<p align="center">
+</td>
+
+<td width="50%">
+
 <a href="https://github.com/Jorgeelric/daniel-fadione">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jorgeelric&repo=daniel-fadione&theme=github_dark&hide_border=true" />
 </a>
-</p>
+
+</td>
+</tr>
+</table>
 
 ---
+
 
 ## Formação Acadêmica
 
