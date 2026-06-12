@@ -1,75 +1,56 @@
-<div align="center">
-
-# Jorge Gàlddino
-
-### Front-End Developer
-
-Desenvolvendo aplicações web com React, JavaScript, HTML e CSS.
-
-<a href="https://www.linkedin.com/in/jorge-galdino">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="mailto:jorgegaldino1997@gmail.com">
-<img src="https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-</div>
-
----
-
-## Sobre
-
-Sou Desenvolvedor Front-End em transição de carreira, focado na construção de interfaces modernas, responsivas e acessíveis utilizando React, JavaScript, HTML e CSS.
-
-Atualmente dedico meus estudos e projetos ao desenvolvimento web, aplicando conceitos de componentização, consumo de APIs, gerenciamento de estado e boas práticas de desenvolvimento.
-
-Minha experiência prévia em tecnologia contribui para uma abordagem analítica, organizada e orientada à resolução de problemas.
-
----
-
-## Tecnologias
+<h1 align="center">Jorge Gàlddino</h1>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,javascript,react,vite,bootstrap,git,github,vscode" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=1500&color=2563EB&center=true&vCenter=true&width=700&lines=Front-End+Developer;React+%7C+JavaScript+%7C+HTML+%7C+CSS;Building+modern+web+applications" alt="Typing SVG" />
 </p>
+
+<table width="100%" border="0">
+<tr>
+
+<td width="55%" valign="top">
+
+## About Me
+
+Front-End Developer em transição de carreira, construindo aplicações web modernas com foco em React, JavaScript, HTML e CSS.
+
+Atualmente desenvolvo projetos práticos para aprimorar conhecimentos em desenvolvimento de interfaces, componentização, consumo de APIs e boas práticas de desenvolvimento.
 
 ---
 
-## Projetos em Destaque
+## Featured Projects
 
 <table>
 <tr>
-<td width="50%">
+<td>
 
 <a href="https://github.com/Jorgeelric/nexanime">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Jorgeelric&repo=nexanime&theme=github_dark&hide_border=true" />
+<img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=Jorgeelric&repo=nexanime&theme=github_dark&hide_border=true" />
 </a>
 
 </td>
 
-<td width="50%">
+<td>
 
 <a href="https://github.com/Jorgeelric/TechJobs-_Brasil">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Jorgeelric&repo=TechJobs-_Brasil&theme=github_dark&hide_border=true" />
+<img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=Jorgeelric&repo=TechJobs-_Brasil&theme=github_dark&hide_border=true" />
 </a>
 
 </td>
 </tr>
 
 <tr>
-<td width="50%">
+<td>
 
 <a href="https://github.com/Jorgeelric/jogo_da_memoria">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Jorgeelric&repo=jogo_da_memoria&theme=github_dark&hide_border=true" />
+<img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=Jorgeelric&repo=jogo_da_memoria&theme=github_dark&hide_border=true" />
 </a>
 
 </td>
 
-<td width="50%">
+<td>
 
 <a href="https://github.com/Jorgeelric/daniel-fadione">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Jorgeelric&repo=daniel-fadione&theme=github_dark&hide_border=true" />
+<img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=Jorgeelric&repo=daniel-fadione&theme=github_dark&hide_border=true" />
 </a>
 
 </td>
@@ -78,56 +59,61 @@ Minha experiência prévia em tecnologia contribui para uma abordagem analítica
 
 ---
 
+## Education
 
-## Formação Acadêmica
+**Postgraduate Degree**
+Computação Forense e Perícia Digital
 
-**Pós-graduação em Computação Forense e Perícia Digital**
-
-**Graduação em Gestão de Tecnologia da Informação**
-
----
-
-## Experiência Profissional
-
-**Deloitte** — Technology Forensics & e-Discovery (Atual)
-
-Atuação em projetos de investigação digital, processamento de evidências eletrônicas e análise de dados corporativos.
-
-**EY** — Technology Risk & Compliance
-
-Experiência em avaliação de riscos tecnológicos, controles internos e conformidade de ambientes de TI.
+**Bachelor Degree**
+Gestão de Tecnologia da Informação
 
 ---
 
-## Atualmente Estudando
+## Contact
 
-* React
-* JavaScript ES6+
-* APIs REST
-* TypeScript
-* Responsividade
-* Clean Code
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/jorge-galdino)
 
----
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:jorgegaldino1997@gmail.com)
 
-## Estatísticas
+</td>
+
+<td width="45%" valign="top">
+
+## Front-End Stack
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Jorgeelric&show_icons=true&theme=github_dark&hide_border=true" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jorgeelric&layout=compact&theme=github_dark&hide_border=true" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Jorgeelric&theme=github-dark-blue&hide_border=true" />
+<img src="https://skillicons.dev/icons?i=html,css,javascript,react,vite,bootstrap" />
 </p>
 
 ---
 
-## Contato
+## Tools
 
-LinkedIn: [www.linkedin.com/in/jorge-galdino](http://www.linkedin.com/in/jorge-galdino)
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,npm" />
+</p>
 
-E-mail: [jorgegaldino1997@gmail.com](mailto:jorgegaldino1997@gmail.com)
+---
 
-</div>
+## Currently Learning
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,typescript" />
+</p>
+
+---
+
+## GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Jorgeelric&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jorgeelric&layout=compact&theme=transparent&hide_border=true" />
+</p>
+
+</td>
+
+</tr>
+</table>
